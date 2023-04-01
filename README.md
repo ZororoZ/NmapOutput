@@ -11,7 +11,9 @@ Nmap输出结果整理工具，更直观查看大批量端口扫描结果，让�
 
 Usage:
 
-`python3 nmapoutput.py result.txt result.csv`
+```
+python3 nmapoutput.py result.txt result.csv
+```
 
 ![image](https://user-images.githubusercontent.com/46238787/229304066-63822933-fa5c-4a3e-8b7f-656ea1ef468d.png)
 
