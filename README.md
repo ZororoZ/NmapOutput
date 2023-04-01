@@ -21,9 +21,9 @@ python3 NmapOutput.py result.txt result.csv
 
 [注]：T表示进行URL探测；F表示不进行URL探测(不区分大小写)
 
-![image](https://user-images.githubusercontent.com/46238787/229304100-3450b2f6-bd12-4ec8-a9bf-61c58c40daba.png)
+![image](https://user-images.githubusercontent.com/46238787/229304696-79303ebe-fb47-4ebe-80dd-146fc7bc98fc.png)
 
-![image](https://user-images.githubusercontent.com/46238787/229304428-eaf412b8-a6c4-4e7e-b7c0-519b6e97572e.png)
+![image](https://user-images.githubusercontent.com/46238787/229304711-724ebee7-448d-4522-a003-577172db68a8.png)
 
 ## 输出结果如下：
 
